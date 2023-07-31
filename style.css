@@ -15,7 +15,7 @@ button {
     width: 10em;
     position: relative;
     height: 3.5em;
-    border: 3px ridge #14ea86;
+    border: 3px ridge #373a38;
     outline: none;
     background-color: transparent;
     color: white;
@@ -54,5 +54,5 @@ button {
   }
   
   button:hover {
-    box-shadow: inset 0px 0px 25px #1479EA;
+    box-shadow: inset 0px 0px 25px #104077;
   }
